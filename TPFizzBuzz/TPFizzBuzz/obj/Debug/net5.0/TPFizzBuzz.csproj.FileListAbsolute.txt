@@ -1,0 +1,16 @@
+/home/paulb/Documents/cours/clean_code/clean-code-tp/TPFizzBuzz/TPFizzBuzz/bin/Debug/net5.0/TPFizzBuzz
+/home/paulb/Documents/cours/clean_code/clean-code-tp/TPFizzBuzz/TPFizzBuzz/bin/Debug/net5.0/TPFizzBuzz.deps.json
+/home/paulb/Documents/cours/clean_code/clean-code-tp/TPFizzBuzz/TPFizzBuzz/bin/Debug/net5.0/TPFizzBuzz.runtimeconfig.json
+/home/paulb/Documents/cours/clean_code/clean-code-tp/TPFizzBuzz/TPFizzBuzz/bin/Debug/net5.0/TPFizzBuzz.runtimeconfig.dev.json
+/home/paulb/Documents/cours/clean_code/clean-code-tp/TPFizzBuzz/TPFizzBuzz/bin/Debug/net5.0/TPFizzBuzz.dll
+/home/paulb/Documents/cours/clean_code/clean-code-tp/TPFizzBuzz/TPFizzBuzz/bin/Debug/net5.0/ref/TPFizzBuzz.dll
+/home/paulb/Documents/cours/clean_code/clean-code-tp/TPFizzBuzz/TPFizzBuzz/bin/Debug/net5.0/TPFizzBuzz.pdb
+/home/paulb/Documents/cours/clean_code/clean-code-tp/TPFizzBuzz/TPFizzBuzz/obj/Debug/net5.0/TPFizzBuzz.csproj.AssemblyReference.cache
+/home/paulb/Documents/cours/clean_code/clean-code-tp/TPFizzBuzz/TPFizzBuzz/obj/Debug/net5.0/TPFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulb/Documents/cours/clean_code/clean-code-tp/TPFizzBuzz/TPFizzBuzz/obj/Debug/net5.0/TPFizzBuzz.AssemblyInfoInputs.cache
+/home/paulb/Documents/cours/clean_code/clean-code-tp/TPFizzBuzz/TPFizzBuzz/obj/Debug/net5.0/TPFizzBuzz.AssemblyInfo.cs
+/home/paulb/Documents/cours/clean_code/clean-code-tp/TPFizzBuzz/TPFizzBuzz/obj/Debug/net5.0/TPFizzBuzz.csproj.CoreCompileInputs.cache
+/home/paulb/Documents/cours/clean_code/clean-code-tp/TPFizzBuzz/TPFizzBuzz/obj/Debug/net5.0/TPFizzBuzz.dll
+/home/paulb/Documents/cours/clean_code/clean-code-tp/TPFizzBuzz/TPFizzBuzz/obj/Debug/net5.0/ref/TPFizzBuzz.dll
+/home/paulb/Documents/cours/clean_code/clean-code-tp/TPFizzBuzz/TPFizzBuzz/obj/Debug/net5.0/TPFizzBuzz.pdb
+/home/paulb/Documents/cours/clean_code/clean-code-tp/TPFizzBuzz/TPFizzBuzz/obj/Debug/net5.0/TPFizzBuzz.genruntimeconfig.cache
